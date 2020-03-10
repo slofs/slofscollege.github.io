@@ -151,7 +151,14 @@ img#newsimage{
     height: 500px;
 }
 
+img#schedule{
+    padding-left:20px;
+    width: 450;
+    height: 400;
+    height: 400;
+    height: 400;
 
+}
 
 
 
@@ -204,4 +211,12 @@ img#newsimage{
 
 /* Change the background color of the dropdown button when the dropdown content is shown */
 .dropdown:hover .dropbtn {background-color: #7A96A5;}
+
+
+
+
+
+
+
+
 
